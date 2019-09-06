@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //ToDo 1 : Untuk commit 2
+
+        //TODO 2 : dhea ardina
     }
 }
